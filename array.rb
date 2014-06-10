@@ -1,3 +1,2 @@
-arr = [1, 3, 5, 7, 9, 11]
-puts arr.include?(3)
-
+arr = [["test", "hello", "world"],["example", "mem"]]
+print arr.last.first
